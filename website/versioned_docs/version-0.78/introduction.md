@@ -1,3 +1,4 @@
+![IMG_20250307_025851_156](https://github.com/user-attachments/assets/c10c4462-f955-45ef-aae8-92b3495456a2)
 ---
 id: getting-started
 title: Introduction
